@@ -1,2 +1,2 @@
 # raven
-all in one TUI for analyzing device performance
+all in one TUI for analyzing laptop performance
