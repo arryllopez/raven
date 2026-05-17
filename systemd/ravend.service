@@ -1,0 +1,11 @@
+# systemd user service placeholder.
+#
+# This file should eventually run the ravend daemon as a user service.
+#
+# Expected behavior:
+# - Start after the graphical or default user session is available.
+# - Restart on failure.
+# - Use the user's XDG data directory for the SQLite database.
+# - Expose a Unix socket under the user's runtime directory.
+#
+# Keep this as comments until the binary path and install story are settled.
